@@ -1,0 +1,12 @@
+.menu {
+    color: #999999;
+    font-size: 15px;
+    font-family: "Roboto Condensed";
+}
+
+.menu .divider {
+    width: 100%;
+    border-top: 1px solid #666666;
+    position: relative;
+    top: -12px;
+    }
